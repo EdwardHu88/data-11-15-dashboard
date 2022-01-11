@@ -12,7 +12,7 @@ import numpy as np
 import plotly.express as px
 import pickle
 
-st.title("My first dashboard    !!!!!!")
+st.title("My First Streamlit Dashboard")
 
 url=r"https://raw.githubusercontent.com/JonathanBechtel/dat-11-15/main/ClassMaterial/Unit1/data/master.csv"
 
