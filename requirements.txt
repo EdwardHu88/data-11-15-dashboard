@@ -1,0 +1,6 @@
+pandas
+numpy
+plotly
+Scikit-learn
+category_encoders
+streamlit
